@@ -19,6 +19,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEFkaWNpb25hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Filmes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Filmes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Filmes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Filmes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Filmes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tarci/Documents/DemoMVC/DemoMVC/DemoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
