@@ -21,3 +21,6 @@ C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\obj\Debug\net6.0\DevIO.
 C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\obj\Debug\net6.0\ref\DevIO.UI.Site.dll
 C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\obj\Debug\net6.0\DevIO.UI.Site.RazorAssemblyInfo.cache
 C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\obj\Debug\net6.0\DevIO.UI.Site.RazorAssemblyInfo.cs
+C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\bin\Debug\net6.0\libman.json
+C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\bin\Debug\net6.0\DevIO.UI.Site.staticwebassets.runtime.json
+C:\Users\tarci\Documents\DemoMVC\AppModelo\DevIO.UI.Site\bin\Debug\net6.0\bundleconfig.json
