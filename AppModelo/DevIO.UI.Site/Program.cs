@@ -1,4 +1,6 @@
+using DevIO.UI.Site.Data;
 using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.EntityFrameworkCore;
 
 // Builder principal é dele de onde tudo deriva
 var builder = WebApplication.CreateBuilder(args);
@@ -14,7 +16,8 @@ builder.Services.Configure<RazorViewEngineOptions>(options =>
     options.AreaViewLocationFormats.Add("/Views/Shared/{0}.cshtml");
 });
 
-
+builder.Services.AddDbContext<MeuDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MeuDbContext")));
 
 // Adicionando suporte ao MVC
 builder.Services.AddControllersWithViews();
