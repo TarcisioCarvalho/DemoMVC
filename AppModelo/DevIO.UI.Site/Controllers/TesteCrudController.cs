@@ -22,10 +22,20 @@ namespace DevIO.UI.Site.Controllers
                 DataNascimento = DateTime.Now
             };
 
-            _contexto.Add(aluno);
+            _contexto.Alunos.Add(aluno);
             _contexto.SaveChanges();
 
-            return View();
+            var aluno2 = _contexto.Alunos.Find(aluno.Id);
+            aluno2.Nome = "Tarcísio Carvalho";
+
+            _contexto.Alunos.Update(aluno2);
+            _contexto.SaveChanges();
+
+            var aluno3 = _contexto.Alunos.Find(aluno.Id);
+            _contexto.Alunos.Remove(aluno3);
+            _contexto.SaveChanges();
+
+            return View("_Layout");
         }
     }
 }

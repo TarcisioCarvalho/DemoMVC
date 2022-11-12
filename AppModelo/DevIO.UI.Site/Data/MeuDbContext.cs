@@ -8,6 +8,6 @@ namespace DevIO.UI.Site.Data
         public MeuDbContext(DbContextOptions<MeuDbContext> options) 
             : base(options){}
 
-        DbSet<Aluno> Alunos { get; set; }
+       public DbSet<Aluno> Alunos { get; set; }
     }
 }

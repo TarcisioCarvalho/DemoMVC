@@ -3,6 +3,7 @@
 namespace DevIO.UI.Site.Modulos.Vendas.Controllers
 {
     [Area("Vendas")]
+    [Route("Pedidos")]
     public class PedidosController : Controller
     {
         

@@ -15,6 +15,7 @@ builder.Services.Configure<RazorViewEngineOptions>(options =>
     options.AreaViewLocationFormats.Add("/Modulos/{2}/Views/Shared/{0}.cshtml");
     options.AreaViewLocationFormats.Add("/Views/Shared/{0}.cshtml");
 });
+//var x = builder.Configuration.GetConnectionString("NovoDbContext");
 
 builder.Services.AddDbContext<MeuDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MeuDbContext")));

@@ -1,0 +1,8 @@
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.AssemblyInfo.cs
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.RazorAssemblyInfo.cache
+C:\Users\tarci\Documents\DemoMVC\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\net6.0\AspNetCoreIdentity.RazorAssemblyInfo.cs
